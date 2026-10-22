@@ -1,0 +1,3936 @@
+[
+{
+"model": "CX-401",
+"line": "fast",
+"name": "Instant adhesive (cyanoacrylate)",
+"summary": "EPOBOND-FAST CX-401 is a very fast curing, medium-low viscosity modified Ethyl Cyanoacrylate adhesive. It is suitable for the bonding of a very wide range of materials, including acidic surfaces and some porous ones, where rapid bonding times are required.",
+"specs": [
+[
+"Chemical type",
+"Modified ethyl"
+],
+[
+"Appearance",
+"Clear liquid"
+],
+[
+"Specific gravity",
+"1.06"
+],
+[
+"Viscosity range (cPs)",
+"90 - 130 (typical 110)"
+],
+[
+"Tensile strength after 2 minutes (MPa)",
+"7.5 - 12.5"
+],
+[
+"Tensile strength after 24 hours (MPa)",
+"15 - 25"
+],
+[
+"Fixture time (secs)",
+"1 - 30"
+],
+[
+"Full cure (hours)",
+"24"
+],
+[
+"Flash point (°C)",
+">85"
+],
+[
+"Shelf life @ 5°C (months)",
+"12"
+],
+[
+"Max gap fill (mm)",
+"0.15"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +80"
+]
+],
+"notes": [
+"Cone and plate rheometer, controlled stress",
+"ISO 6922",
+"Depending on substrates and application conditions"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-FAST CX-401 is especially formulated for instant bonding of paper, leather, wood, plastics, rubbers, metals and other common substrates. CX-401 will be used in many markets such as assembly of plastic and rubber parts, shoe manufacture and repair, luggage manufacturing, sports equipment manufacture, the electrical and electronic device industry, medical devices, maintenance and repair and many others. Although CX-401 has a degree of gap filling ability, it is generally recommended for use on close-fitting parts and fairly smooth, even surfaces."
+]
+],
+[
+"Curing performance",
+[
+"Typical speed:",
+"Steel (Degreased) 5-20 seconds",
+"Aluminium 2-10 seconds",
+"Chromated Steel <3 seconds",
+"Nitrile Rubber <5 seconds",
+"EPDM 3-10 seconds",
+"ABS <3 seconds",
+"PVC 3-10 seconds",
+"Polycarbonate 4-10 seconds",
+"Phenolic <3 seconds",
+"Wood (Balsa) 1-3 seconds",
+"Wood (Oak) 90-180 seconds",
+"Chipboard 25-70 seconds",
+"Fabric <10 seconds",
+"General Leathers 3-20 seconds",
+"Fully Finished Leather <5 seconds",
+"Paper 2-10 seconds",
+"Card <2 seconds"
+]
+],
+[
+"Directions for use",
+[
+"Bond speed is very fast so ensure that parts are properly aligned before bonding, Activators AX40 may be required if there are gaps or porous surfaces. Some plastics may require application of AP 50 Primer.",
+"Ensure parts are clean, dry and free from oil and grease. Product is normally hand applied from the bottle. Apply sparingly to one surface and press parts firmly together until handling strength is achieved. As a general rule, as little cyanoacrylate as possible should be used - over application will result in slow cure speed and lower bond strength Please contact your EPOBOND representative for further advice on dispensing solutions.",
+"Strength Development",
+"After 2 minutes on steel: 50% of final strength After 10 minutes on rubber: 6MPa"
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"EPOBOND -FAST cyanoacrylates give best results on close fitting parts. The product should be applied in a very thin line in order to ensure rapid polymerisation and a strong bond. Excessive bond gaps will result in slower cure speeds.",
+"Cure speed vs, substrate",
+"The speed of cure of cyanoacrylates varies according to the substrates to be bonded. Acidic surfaces such as leather and paper have longer cure times than most plastics and rubbers. Some plastics such as polyethylene, polypropylene and PTFE require the use of AP50 Primer"
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND-FAST ethyl cyanoacrylate adhesives are suitable for use at temperatures up to 80°C. At 80°C the bond will be approximately 70% of the strength at 21°C. The bond strength at 100°C is approximately 50% of full strength at 21°C.",
+"Heat ageing",
+"EPOBOND-FAST cyanoacrylates retain over 90% of their strength when heated to 100°C for 90 days and then tested at 21°C. Heating the bond to 120°C and then testing at 21°C gives bond strength of approximately 50% of initial strength."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND-FAST cyanoacrylates exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, ethanol, propanol and freon. Cyanoacrylates are not resistant to high levels of moisture or humidity over time"
+]
+],
+[
+"Storage",
+[
+"Store in a cool area out of direct sunlight. Refrigeration to 5°C gives optimum storage stability."
+]
+]
+]
+},
+{
+"model": "CX-406",
+"line": "fast",
+"name": "Low viscosity ethyl cyanoacrylate",
+"summary": "EPOBOND-FAST CX-406 is a low viscosity Ethyl Cyanoacrylate adhesive. CX-406 is formulated for high speed, high strength bonding of plastics and rubbers. It give superior performance on all types of plastic and rubber substrates when bonding to themselves or to other common substrates.",
+"specs": [
+[
+"Chemical type",
+"Ethyl"
+],
+[
+"Appearance",
+"Clear liquid"
+],
+[
+"Specific gravity",
+"1.06"
+],
+[
+"Viscosity range (cPs)",
+"17 - 24 (typical 20)"
+],
+[
+"Tensile strength (N/mm²)",
+"20"
+],
+[
+"Fixture time (secs)",
+"2 - 20"
+],
+[
+"Full cure (hours)",
+"24"
+],
+[
+"Flash point (°C)",
+">85"
+],
+[
+"Shelf life @ 5°C (months)",
+"12"
+],
+[
+"Max gap fill (mm)",
+"0.1"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +80"
+]
+],
+"notes": [
+"Cone and plate rheometer, controlled stress",
+"ISO 6922"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-FAST CX-406 is specially formulated for the bonding of most common plastics and rubbers, but will also bond other substrates. Recommended for use on close-fitting parts and smooth, even surfaces."
+]
+],
+[
+"Curing performance",
+[
+"Typical speed :",
+"Steel/steel <20 seconds",
+"ABS/ABS <10 seconds",
+"Rubber/Rubber <5. seconds"
+]
+],
+[
+"Directions for use",
+[
+"Bond speed is very fast so ensure that parts are properly aligned before bonding.",
+"EPOBOND Activators may be required if there are gaps or porous surfaces. Some plastics may require application of AP 50 primer.",
+"Ensure parts are clean, dry and free from oil and grease. Product is normally hand applied from the bottle. Apply sparingly to one surface and press parts firmly together until handling strength is achieved. As a general rule, as little cyanoacrylate as possible should be used - over application will result in slow cure speed and lower bond strength. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"The speed of cure of cyanoacrylates varies according to the substrates to be bonded. Acidic surfaces such as paper and leather will have longer cure times than most plastics and rubbers, Some plastics with very low surface energies, such as polyethylene, polypropylene and Teflon® require the use of AP 50 Primer."
+]
+],
+[
+"Cure speed vs. environmental conditions",
+[
+"Cyanoacrylate adhesives require surface moisture on the substrates in order to initiate the curing mechanism. The speed of cure is reduced in low humidity conditions. Low temperatures will also reduce cure speed. All figures relating to cure speed are tested at 21°C."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"EPOBOND cyanoacrylates give best results on close fitting parts. The product should be applied in a very thin line in order to ensure rapid polymerisation and a strong bond Excessive bond gaps will result in slower cure speeds."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND-FAST cyanoacrylate adhesives are suitable for use at temperatures up to 80°C. At 80°C the bond will be approximately 70% of the strength at 21°C. The bond strength at 100°C is approximately 50% of full strength at 21°C.",
+"Heat ageing",
+"EPOBOND-FAST cyanoacrylates retain over 90% of their strength when heated to 80°C for 90 days and then tested at 21°C, Heating the bond to 100°C and then testing at 21°C gives bond strength of approximately 50% of initial strength."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND-FAST cyanoacrylates exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, ethanol, propanol and freon. Cyanoacrylates are not resistant to high levels of moisture or humidity over time."
+]
+],
+[
+"Removal of cured cyanoacrylate",
+[
+"Cured cyanoacrylate may be removed from most substrates, and parts disassembled, with Debonder DX 48. It is not possible to fully remove cyanoacrylate from fabrics."
+]
+],
+[
+"Storage",
+[
+"Store in a cool area out of direct sunlight. Refrigeration to 5°C gives optimum storage stability."
+]
+]
+]
+},
+{
+"model": "CX-415",
+"line": "fast",
+"name": "Instant adhesive (cyanoacrylate)",
+"summary": "€POBOND -FAST CX-415 Instant Superglue is a medium-high viscosity (1500 cPs) modified Ethyl Cyanoacrylate based adhesive. CX-415 is specially formulated to give enhanced performance when bonding metals to metals or metals to other substrates.",
+"specs": [
+[
+"Chemical type",
+"Modified ethyl"
+],
+[
+"Appearance",
+"Clear liquid"
+],
+[
+"Specific gravity",
+"1.08"
+],
+[
+"Viscosity range (cPs)",
+"1400 - 1675 (typical 1500)"
+],
+[
+"Tensile strength (N/mm²)",
+"20"
+],
+[
+"Fixture time (secs)",
+"5 - 60"
+],
+[
+"Full cure (hours)",
+"24"
+],
+[
+"Flash point (°C)",
+">85"
+],
+[
+"Shelf life @ 5°C (months)",
+"12"
+],
+[
+"Max gap fill (mm)",
+"0.20"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +80"
+]
+],
+"notes": [
+"Brookfield LVF, spindle 3 rpm",
+"ISO 6922"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND -FAST CX-415 is specially formulated for the bonding of metals, but can also bond most plastics, rubbers and other common substrates. CX-415 has enhanced gap filling capacity and can be used on parts that do not fit together perfectly. The high viscosity formulation means that the adhesive does not wick into unwanted areas."
+]
+],
+[
+"Curing performance",
+[
+"Typical speed:",
+"Steel/steel <60 seconds",
+"ABS/ABS <25 seconds",
+"Rubber/Rubber <20 seconds"
+]
+],
+[
+"Directions for use",
+[
+"Bond speed is very fast so ensure that parts are properly aligned before bonding.",
+"Activators AX 40 may be required if there are gaps or porous surfaces. Some plastics may require application of AP 50. Ensure parts are clean, dry and free from oll and grease. Product is normally hand applied from the bottle. Apply sparingly to one surface and press parts firmly together until handling strength is achieved. As a general rule, as little cyanoacrylate as possible should be used - over application will result in slow cure speed and lower bond strength. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"The speed of cure of cyanoacrylates varies according to the substrates to be bonded. Acidic surfaces such as paper and leather will have longer cure times than most plastics and rubbers. Some plastics with very low surface energies, such as polyethylene, polypropylene and Teflon® require the use of AP 50 Primer."
+]
+],
+[
+"Cure speed vs. environmental conditions",
+[
+"Cyanoacrylate adhesives require surface moisture on the substrates in order to initiate the curing mechanism. The speed of cure is reduced in low humidity conditions. Low temperatures will also reduce cure speed. All figures relating to cure speed are tested at 21°C."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"Cyanoacrylates give best results on close fitting parts. The product should be applied in a very thin line in order to ensure rapid polymerisation and a strong bond. Excessive bond gaps will result in slower cure speeds."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND -FAST cyanoacrylate adhesives are suitable for use at temperatures up to 80°C. At 80°C the bond will be approximately 70% of the strength at 21°C. The bond strength at 100°C is approximately 50% of full strength at 21°C.",
+"Heat ageing",
+"EPOBOND-FAST cyanoacrylates retain over 90% of their strength when heated to 80°C for 90 days and then tested at 21°C. Heating the bond to 100°C and then testing at 21°C gives bond strength of approximately 50% of initial strength."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND-FAST cyanoacrylates exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, ethanol, propanol and freon. Cyanoacrylates are not resistant to high levels of moisture or humidity over time."
+]
+],
+[
+"Removal of cured cyanoacrylate",
+[
+"Cured cyanoacrylate may be removed from most substrates, and parts disassembled, with Debonder DX 48. It is not possible to fully remove cyanoacrylate from fabrics"
+]
+],
+[
+"Storage",
+[
+"Store in a cool area out of direct sunlight. Refrigeration to 5°C gives optimum storage stability."
+]
+]
+]
+},
+{
+"model": "CX-480",
+"line": "fast",
+"name": "Instant adhesive (cyanoacrylate)",
+"summary": "EPOBOND-FAST CX-415 Instant Superglue is a medium-high viscosity (1500 cPs) modified Ethyl! Cyanoacrylate based adhesive. CX-415 is specially formulated to give enhanced performance when bonding metals to metals or metals to other substrates.",
+"specs": [
+[
+"Chemical type",
+"Modified ethyl"
+],
+[
+"Appearance",
+"Clear liquid"
+],
+[
+"Specific gravity",
+"1.08"
+],
+[
+"Viscosity range (cPs)",
+"1400 - 1675 (typical 1500)"
+],
+[
+"Tensile strength (N/mm²)",
+"20"
+],
+[
+"Fixture time (secs)",
+"5 - 60"
+],
+[
+"Full cure (hours)",
+"24"
+],
+[
+"Flash point (°C)",
+">85"
+],
+[
+"Shelf life @ 5°C (months)",
+"12"
+],
+[
+"Max gap fill (mm)",
+"0.20"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +80"
+]
+],
+"notes": [
+"Brookfield LVF, spindle 3 rpm",
+"ISO 6922"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-FAST CX-415 is specially formulated for the bonding of metals, but can also bond most plastics, rubbers and other common substrates. €X-415 has enhanced gap filling capacity and can be used on parts that do not fit together perfectly. The high viscosity formulation means that the adhesive does not wick into unwanted areas."
+]
+],
+[
+"Curing performance",
+[
+"Typical speed:",
+"Steel/steel <60 seconds",
+"ABS/ABS <25 seconds",
+"Rubber/Rubber <20 seconds"
+]
+],
+[
+"Directions for use",
+[
+"Bond speed is very fast so ensure that parts are properly aligned before bonding, Activators AX 40 may be required if there are gaps or porous surfaces. Some plastics may require application of AP 50. Ensure parts are clean, dry and free from oil and grease. Product is normally hand applied from the bottle. Apply sparingly to one surface and press parts firmly together until handling strength is achieved. As a general rule, as little cyanoacrylate as possible should be used — over application will result in slow cure speed and lower bond strength. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"The speed of cure of cyanoacrylates varies according to the substrates to be bonded. Acidic surfaces such as paper and leather will have longer cure times than most plastics and rubbers. Some plastics with very low surface energies, such as polyethylene, polypropylene and Teflon® require the use of AP 50 Primer ."
+]
+],
+[
+"Cure speed vs. environmental conditions",
+[
+"Cyanoacrylate adhesives require surface moisture on the substrates in order to initiate the curing mechanism. The speed of cure is reduced in low humidity conditions. Low temperatures will also reduce cure speed. All figures relating to cure speed are tested at 21°C."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"Cyanoacrylates give best results on close fitting parts. The product should be applied in a very thin line in order to ensure rapid polymerisation and a strong bond. Excessive bond gaps will result in slower cure speeds."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND -FAST cyanoacrylate adhesives are suitable for Use at temperatures up to 80°C. At 80°C the bond will be approximately 70% of the strength at 21°C. The bond strength at 100°C is approximately 50% of full strength at 21°C.",
+"Heat ageing",
+"EPOBOND-FAST cyanoacrylates retain over 90% of their strength when heated to 80°C for 90 days and then tested at 21°C. Heating the bond to 100°C and then testing at 21°C gives bond strength of approximately 50% of initial strength."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND-FAST cyanoacrylates exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, ethanol, propanol and freon. Cyanoacrylates are not resistant to high levels of moisture or humidity over time."
+]
+],
+[
+"Removal of cured cyanoacrylate",
+[
+"Cured cyanoacrylate may be removed from most substrates, and parts disassembled, with Debonder DX 48. It is not possible to fully remove cyanoacrylate from fabrics."
+]
+],
+[
+"Storage",
+[
+"Store in a cool area out of direct sunlight. Refrigeration to 5°C gives optimum storage stability."
+]
+]
+]
+},
+{
+"model": "CX-495",
+"line": "fast",
+"name": "Instant adhesive (cyanoacrylate)",
+"summary": "EPOBOND -FAST CX-495 is a very fast curing, medium-low viscosity modified Ethyl Cyanoacrylate adhesive. Its suitable for the bonding of a very wide range of materials, including acidic surfaces and some porous ones, where rapid bonding times are required.",
+"specs": [
+[
+"Chemical type",
+"Modified ethyl"
+],
+[
+"Appearance",
+"Clear liquid"
+],
+[
+"Specific gravity",
+"1.06"
+],
+[
+"Viscosity range (cPs)",
+"90 - 130 (typical 110)"
+],
+[
+"Tensile strength after 2 minutes (MPa)",
+"7.5 - 12.5"
+],
+[
+"Tensile strength after 24 hours (MPa)",
+"15 - 25"
+],
+[
+"Fixture time (secs)",
+"1 - 30"
+],
+[
+"Full cure (hours)",
+"24"
+],
+[
+"Flash point (°C)",
+">85"
+],
+[
+"Shelf life @ 5°C (months)",
+"12"
+],
+[
+"Max gap fill (mm)",
+"0.15"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +80"
+]
+],
+"notes": [
+"Cone and plate rheometer, controlled stress",
+"ISO 6922",
+"Depending on substrates and application conditions"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-FAST CX-495 is especially formulated for instant bonding of paper, leather, wood, plastics, rubbers, metals and other common substrates. CX-495 will be used in many markets such as assembly of plastic and rubber parts, shoe manufacture and repair, luggage manufacturing, sports equipment manufacture, the electrical and electronic device industry, medical devices, maintenance and repair and many others. Although CX-495 has a degree of gap filling ability, it is generally recommended for use on close-fitting parts and fairly smooth, even surfaces."
+]
+],
+[
+"Curing performance",
+[
+"Typical speed :",
+"Steel (Degreased) 5-20 seconds",
+"Aluminium 2-10 seconds",
+"Chromated Stee! <3 seconds",
+"Nitrile Rubber <5 seconds",
+"EPDM. 3-10 seconds",
+"ABS <3 seconds",
+"PVC 3-10 seconds",
+"Polycarbonate 4-10 seconds",
+"Phenolic <3 seconds",
+"Wood (Balsa) 1-3 seconds",
+"Wood (Oak) 90-180 seconds",
+"Chipboard 25-70 seconds",
+"Fabric <10 seconds",
+"General Leathers 3-20 seconds",
+"Fully Finished Leather <5 seconds",
+"Paper 2-10 seconds",
+"Card <2 seconds"
+]
+],
+[
+"Directions for use",
+[
+"Bond speed is very fast so ensure that parts are properly aligned before bonding.",
+"Activators AX40 may be required if there are gaps or porous surfaces. Some plastics may require application of AP 50 Primer.",
+"Ensure parts are clean, dry and free from oil and grease, Product is normally hand applied from the bottle. Apply sparingly to one surface and press parts firmly together until handling strength is achieved. As a general rule, as little cyanoacrylate as possible should be used - over application will result in slow cure speed and lower bond strength. Please contact your €POBOND representative for further advice on dispensing solutions.",
+"Strength Development",
+"After 2 minutes on steel: 50% of final strength After 10 minutes on rubber: MPa"
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"EPOBOND -FAST cyanoacrylates give best results on close fitting parts. The product should be applied in a very thin line in order to ensure rapid polymerisation and a strong bond. Excessive bond gaps will result in slower cure speeds."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"The speed of cure of cyanoacrylates varies according to the substrates to be bonded. Acidic surfaces such as leather and paper have longer cure times than most plastics and rubbers. Some plastics such as polyethylene, polypropylene and PTFE require the use of AP 50 Primer."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND-FAST ethyl cyanoacrylate adhesives are suitable for use at temperatures up to 80°C. At 80°C the bond will be approximately 70% of the strength at 21°C. The bond strength at 100°C is approximately 50% of full strength at 21°C.",
+"Heat ageing",
+"EPOBOND-FAST cyanoacrylates retain over 90% of their strength when heated to 100°C for 90 days and then tested at 21°C. Heating the bond to 120°C and then testing at 21°C gives bond strength of approximately 50% of initial strength."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND-FAST cyanoacrylates exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, ethanol, propanol and freon. Cyanoacrylates are not resistant to high levels of moisture or humidity over time."
+]
+],
+[
+"Storage",
+[
+"Store in a cool area out of direct sunlight. Refrigeration to 5°C gives optimum storage stability."
+]
+]
+]
+},
+{
+"model": "TL-1222",
+"line": "lock",
+"name": "Threadlocker",
+"summary": "EPOBOND-LOCK TL-1222 Screwlock is a low strength, thixotropic anaerobic threadlocker.The low removal torque allows easy disassembly yet provides maximum vibration and shock resistance for threaded parts.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Purple"
+],
+[
+"Specific gravity",
+"~1.02"
+],
+[
+"Viscosity (cPs)",
+"4,000 - 6,000 (typical 5,000)"
+],
+[
+"Viscosity, second method (cPs)",
+"1,000 - 2,000 (typical 1,500)"
+],
+[
+"Breakaway torque (N/m)",
+"5 - 11 (typical 8)"
+],
+[
+"Prevail torque (N/m)",
+"1 - 5 (typical 3)"
+],
+[
+"Initial fixture time (mins)",
+"15"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.25"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT spindle 2, 2.5 rpm",
+"Brookfield RVT spindle 2, 2.5 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-LOCK TL-1222s formulated to prevent vibration loosening and to seal against leaks through threads components. The low removal torque makes TL-1222 especially suitable for use on small threaded parts (<6 mmo) and where regular disassemly is envisaged . TL-1222 is ideal for small set screws and hex and slot driven components, including keyed fasteners. the low strength allows disassembly without stripping the heads offf screws or bolts. so TL-1222 is particulary recommended for use on softer, non-ferrous metals, e.g. brass."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed3 as % of final strength",
+"30 mins ~ 10% strength",
+"3 hour ~ 50% strength",
+"24 hours 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"is suitable for low strength applications that require small to. medium gap filling.",
+"Ensure parts are clean, dry and free from oil and grease. Apply adhesive to all the engaged area. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint. Product is normally hand applied from the bottle or tube Dispensing systems are available for high volume assembly epqslimasions. Please contact your representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX 40 should be used when the temperature is less than 5°C"
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel and brass components anaerobic adhesives will reach full strength more rapidly than more inert materials such as stainless steel and zinc dichromate EPOBOND-L0cK AX 40 may be used to accelerate cure speed Anaerobic adhesives only cure in the absence of air and with metal part activation."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between surfaces, the slower the cure speed. Maximum recommended gap for TL-122 is 0.25mm, which will give approximately the cure schedule as. detailed in the properties table."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"€POBOND-L0cK TL-1222'is suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~20% of the strength at 21°C Heat ageing EPOBOND-LOCK TL-1222 retains over 90% full strength when heated to 100°C for 90 days then cooled and tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"TL-1222 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic. Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX 40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storage outside this temperature range can adversely affect product properties and affect the stated shelf life"
+]
+]
+]
+},
+{
+"model": "TL-1243",
+"line": "lock",
+"name": "Threadlocker",
+"summary": "EPOBOND-LOCK TL-1243 Nut-lock is a general purpose, mediumhigh strength, thixotropic anaerobic thread locking compound. The product cures when confined in the absence of air on close-fitting metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Blue"
+],
+[
+"Specific gravity",
+"~1.04"
+],
+[
+"Viscosity (cPs)",
+"10,000 - 18,000 (typical 14,000)"
+],
+[
+"Viscosity, second method (cPs)",
+"2,500 - 4,000 (typical 3,300)"
+],
+[
+"Breakaway torque (N/m)",
+"12 - 25 (typical 19)"
+],
+[
+"Prevail torque (N/m)",
+"5 - 15 (typical 10)"
+],
+[
+"Initial fixture time (mins)",
+"≤15"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.30"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT spindle 3, 2.5 rpm",
+"Brookfield RVT spindle 3, 20 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-LOCK TL-1243 is formulated to lock all metric and imperial nuts and bolts, preventing vibration loosening and leakage through the threads. TL-1243 is slightly oil tolerant, so it will bond some’as received’ parts, but best results are obtained with clean substrates. The thixotropic nature of the product prevents run off, dripping and migration after assembly. TL-1243 is typically used on mounting bolts, housing screws, etc. TL-1243 will help prevent the corrosion of assembled parts."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed3 as % of final strength",
+"15 mins Finger Tight",
+"Thour ~ 60% strength",
+"24 hours 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"TL-1243 is suitable for medium-high strength retaining applications that require small to medium gap filling Ensure parts are clean, dry and free from oil and grease. Apply adhesive to all the engaged area. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint. Product is normally hand applied from the bottle or tube. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND-LOCK representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX 40 should be used when the temperature is less than 5°C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel and brass components anaerobic adhesives will reach full strength more rapidly than more inert materials such as stainless steel and zinc dichromate EPOBOND-LOCK AX 40activator may be used to accelerate cure speed. Anaerobic adhesives only cure in the absence of air and with metal part activation."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between surfaces, the slower the cure speed. Maximum recommended gap for TL-1243 is 0.30mm, which will give approximately the cure schedule as detailed in the properties table."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND-LOCK TL-1243 is suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~30% of the strength at 21°C"
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"Chemence anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol,brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"TL-1270 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic.",
+"Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX 40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storage outside this temperature range can adversely affect product properties and affect the stated shelf life"
+]
+]
+]
+},
+{
+"model": "TL-1270",
+"line": "lock",
+"name": "Threadlocker",
+"summary": "EPOBOND.10¢K TL-1270 is a single component, high strength (permanent) anaerobic thread locking Compound. EPOBOND.10¢k TL-1270 cures when confined in the absence of air between close fitting metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Green"
+],
+[
+"Specific gravity",
+"~1.04"
+],
+[
+"Viscosity (cPs)",
+"400 - 600 (typical 500)"
+],
+[
+"Breakaway torque (N/m)",
+"20 - 40 (typical 29)"
+],
+[
+"Prevail torque (N/m)",
+"21 - 44 (typical 33)"
+],
+[
+"Initial fixture time (mins)",
+"15"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.20"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield LVF, spindle 2, 2.5 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-10Ck TL-1270 is formulated to lock metal fasteners and thus prevent vibration loosening and leakage through the threads. TL-1270 js particularly suitable for larger threaded fasteners, e.g. studs and all applications where maximum strength is needed.",
+"TL-1270 prevents corrosion of assembled parts."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed? as % of final strength",
+"15 mins Finger Tight",
+"Thour ~ 40% strength",
+"24 hours 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"is suitable for most standard diameter, medium to coarse-threaded screws, nuts and bolts. Ensure parts are clean, dry and free from oil and grease. Apply adhesive to all the engaged area. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint. Product is normally hand applied from the bottle or tube. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND-LOCK representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX 40 should be used when the temperature is less than °C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel and brass components anaerobic adhesives will reach full strength more rapidly than more inert materials such as stainless steel and zinc dichromate EPOBOND.tock AX 40 may be used to accelerate cure speed. Anaerobic adhesives only cure in the absence of air and with metal part activation."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between surfaces, the slower the cure speed. Maximum recommended gap for TL-1270 is 0.2mm, which will give approximately the cure schedule as. detailed in the properties table,"
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND.-LOCK TL-1270 is suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~50% of the strength at 21°C Heat ageing EPOBOND.L0cK TL-1270 retains over 90% full strength when heated to 100°C for 90 days then cooled and tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"TL-1270 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic. Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX 40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storage outside this temperature range can adversely affect product properties and affect the stated shelf life"
+]
+]
+]
+},
+{
+"model": "BR-1638",
+"line": "lock",
+"name": "Retaining compound",
+"summary": "EPOBOND-LOCK BR-1638 is a single component, Very high strength anaerobic retaining compound. 'BR.1638 cures when confined in the absence of air between close-fitting metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate / triacrylate"
+],
+[
+"Appearance",
+"Green"
+],
+[
+"Specific gravity",
+"~1.08"
+],
+[
+"Viscosity (cPs)",
+"1,800 - 3,300 (typical 2,500)"
+],
+[
+"Breakaway torque (N/m)",
+"25 - 42 (typical 30)"
+],
+[
+"Prevail torque (N/m)",
+"25 - 42 (typical 32)"
+],
+[
+"Shear strength (N/mm²)",
+"17 - 37 (typical 27)"
+],
+[
+"Initial fixture time (mins)",
+"≥15"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.25"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield LVF, spindle 2, 2.5 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964",
+"On mild steel pin and collar, ISO 10123"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-LOCK BR.1638 is formulated for bonding cylindrical parts, to give very high strength bonds. Typical applications include locking sleeves onto shafts. BR-1638 is designed to augment the strength of press fit and slip fit assemblies. Once applied, parts slip together easily, lubricated by the adhesive. BR-1638 prevents corrosion of assembled parts."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed’ as % of final strength",
+"15 mins ~ 10% strength",
+"45 mins ~50% strength",
+"24hours 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"BR.1638 is suitable for high strength retaining applications that require medium gap filling. Ensure parts are clean, dry and free from oil and grease. Apply adhesive to all the. engaged area. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint.",
+"Product is normally hand applied from the bottle or tube. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX 40 should be used when the temperature is less than 5°C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel and brass components anaerobic adhesives will reach full strength more rapidly than more inert materials such as stainless steel and zinc dichromate AX 40 activator may be used to accelerate cure speed. Anaerobic adhesives only cure in the absence of air and with metal part activation."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for BR.1638 is 0.25mm.",
+"which will give approximately the cure schedule as detailed in the properties table."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND-LOCK BR-1638 js suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~50% of the strength at 21°C Heat ageing EPOBOND-LOCK BR-1638 retains ~80% full strength when heated to 100°C for 90 days then cooled and tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND.Lock anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"BR.1638 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic.",
+"Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX 40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C.Storage outside this temperature range can adversely affect product properties and affect the stated shelflfe"
+]
+]
+]
+},
+{
+"model": "BR-1648",
+"line": "lock",
+"name": "Retaining compound",
+"summary": "EPOBOND-LOCK BR-1648is a single component, high strength, anaerobic retaining compound. BR-1648 is a fast curing grade that develops high strength quickly and will withstand higher service temperatures than standard products. BR-1648 cures when confined in the absence of air between close-fitting metal surfaces",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate / triacrylate"
+],
+[
+"Appearance",
+"Green"
+],
+[
+"Specific gravity",
+"~1.08"
+],
+[
+"Viscosity (cPs)",
+"400 - 800 (typical 600)"
+],
+[
+"Breakaway torque (N/m)",
+"20 - 40 (typical 30)"
+],
+[
+"Prevail torque (N/m)",
+"13 - 40 (typical 26)"
+],
+[
+"Shear strength (N/mm²)",
+"20 - 33 (typical 26)"
+],
+[
+"Initial fixture time (mins)",
+"10"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.2"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+],
+[
+"Temperature range, intermittent (°C)",
+"-50 to +175"
+]
+],
+"notes": [
+"Brookfield LVF, spindle 2, 2.5 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964",
+"On mild steel pin and collar, ISO 10123"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-LOCK BR-1648 is formulated for bonding cylindrical parts to give high strength bonds. Typical applications include mounting gears and rotors on to shafts. BR-1648 is designed to augment the strength of press fit assemblies. Once applied parts slip together easily, lubricated by the adhesive. BR-1648 prevents corrosion of assembled parts."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed? as % of final strength",
+"15 mins ~ 10% strength",
+"45 mins ~ 50% strength",
+"24 hours 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"BR-1648 is suitable for high strength retaining applications that require small gap filling. Ensure parts are clean, dry and free from oil and grease. Apply adhesive to all the engaged area. Assemble parts and allow to cure, Wipe excess adhesive from outside of joint.",
+"Product is normally hand applied from the bottle or tube. Dispensing systems are available for high volume assembly applications. Please contact your &PoBOND representative for further advice on dispensing solutions"
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX 50 should be used when the temperature is.",
+"less than 5°C"
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates When used on mild steel and brass components anaerobic adhesives will reach full strength more rapidly than more inert materials such as stainless steel and zinc dichromate AX 50 activator may be used to accelerate cure speed, Anaerobic adhesives only cure in the absence of air and with metal part activation."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for BR-1648 is 0.20mm.",
+"which will give approximately the cure schedule as detailed in the properties table."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND-LOCK BR-1648 is suitable for use at temperatures up to 175°C. At 130°C the bond strength will be ~50% of the strength at 21°C Heat ageing EPOBOND-LOCK BR-1648 retains ~80% full strength when heated to 100°C for 90 days then cooled and tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND -L0ck anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"'BR-1648 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic.",
+"Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX 50 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storage outside this temperature range can adversely affect product properties and affect the stated shelf life"
+]
+]
+]
+},
+{
+"model": "BR-1641",
+"line": "lock",
+"name": "Retaining compound",
+"summary": "EPOBOND.-LOcK BR-1641 is a single component, anaerobic retaining compound formulated to give a controlled medium strength bond. BR-1641 cures when confined in the absence of air between close-fitting metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate / triacrylate"
+],
+[
+"Appearance",
+"Green"
+],
+[
+"Specific gravity",
+"~1.07"
+],
+[
+"Viscosity (cPs)",
+"400 - 600 (typical 500)"
+],
+[
+"Breakaway torque (N/m)",
+"12 - 18 (typical 15)"
+],
+[
+"Prevail torque (N/m)",
+"8 - 12 (typical 10)"
+],
+[
+"Shear strength (N/mm²)",
+"7 - 15 (typical 11)"
+],
+[
+"Initial fixture time (mins)",
+"15"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.2"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield LVF, spindle 2, 2.5 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964",
+"On mild steel pin and collar, ISO 10123"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-LOCK BR-1641 is formulated for bonding cylindrical parts, to give medium strength retaining. Typical applications include mounting bearings in place on shafts and in housings. The controlled medium strength allows disassembly for servicing and bearing re-use . BR-1641 is designed to augment the strength of press fit assemblies. Once applied, parts slip together easily, lubricated by the adhesive. BR-1641 prevents corrosion of assembled parts."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed? as % of final strength",
+"30 mins ~10% strength",
+"Thour ~40% strength",
+"24hours 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"BR.1641 is suitable for medium strength retaining applications that require small gap filling. Ensure parts are clean, dry and free from oil and grease. Apply adhesive to all the engaged area. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint.",
+"Product is normally hand applied from the bottle or tube. Dispensing systems are available for high volume assembly applications, Please contact your€POBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX 50 should be used when the temperature is less than 5°C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel and brass components anaerobic adhesives will reach full strength more rapidly than more inert materials such as stainless steel and zinc dichromate AX 50 activator may be used to accelerate cure speed. Anaerobic adhesives only cure in the absence of air and with metal part activation"
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for BR-1641 is 0.20mm.",
+"which will give approximately the cure schedule as detailed in the properties table."
+]
+],
+[
+"Typical environmental resistance",
+[
+"rength",
+"BOND -LOCK BR-1641 js suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~40% of the strength at 21 Heat ageing BOND -LOCK BR-1641 retains ~80% full strength when heated to 100°C for 90 days then cooled and tested at 21°C.",
+"LIMITATIONS.",
+"BR-1641is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic.",
+"Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX 50 Activator may be required on plated parts."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND.-Lock anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storage outside this temperature range can adversely affect product properties and affect the stated shelf life"
+]
+]
+]
+},
+{
+"model": "TS-1542",
+"line": "seal",
+"name": "Thread sealant",
+"summary": "EPOBOND-L0CK TS-1542 is a single component, medium strength anaerobic pipe sealant. T8-1542 cures when confined in the absence of air between close-fitting metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Brown"
+],
+[
+"Specific gravity",
+"1.05"
+],
+[
+"Viscosity (cPs)",
+"400 - 600 (typical 500)"
+],
+[
+"Breakaway torque (N/m)",
+"8 - 18 (typical 13)"
+],
+[
+"Prevail torque (N/m)",
+"7 - 14 (typical 10)"
+],
+[
+"Initial fixture time (mins)",
+"15"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.2"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield LVF, spindle 2, 2.5 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-LOCK 78-1542 is formulated to lock and seal fine and medium pitch pipe threads, particularly for hydraulic and pneumatic pipe systems, up to 915mm pipe. TS-1542 prevents vibration loosening and leakage through the pipe threads. 78-1542 is formulated to give medium strength break and prevail torque on assembled joints, thus enabling easier disassembly and servicing, Pipe joints made with Ts-1542 should be tightened to the specitied torque within a maximum of 10 minutes from initial assembly. 78-1542 will give an almost instant low pressure seal (up to 2 Bar after 20mins,) and when fully cured will seal up to the bursting pressure of the pipe (e.g. 10,000psi)."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed! as % of final strength",
+"15 mins Finger Tight ]",
+"Thour ~ 50% strength |",
+"24 hours 100% strength |"
+]
+],
+[
+"Directions for use",
+[
+"T8-1542 is suitable for most pipe threads of fine to medium pitch, up to a maximum 015mm pipe. TS-1542 will not cure outside the joint and is virtually non-fouling in most types of hydraulic systems Ensure parts are clean, dry and free from oil and grease Apply adhesive to all engaged threads. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint. Product is normally hand applied from the bottle. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX 40 should be used when the temperature is less than 5°C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel components anaerobic gasket adhesives will reach full strength more rapidly than on more inert materials such as aluminium and stainless steel.",
+"AX 40 activator may be used to accelerate cure speed. Anaerobic adhesives only cure in the absence of air and with metal part activation."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for TS-1542 is 0.20mm."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND-LOCK TS-1542 is suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~30% of the strength at 21°C Heat ageing EPOBOND-LOCK TS-1542 retains ~85% full strength when heated to 100°C for 90 days then cooled and tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"Chemence anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol,brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"TS-1542 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic.",
+"Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX 40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storage outside this temperature range can adversely affect product properties and affect the stated shelf life"
+]
+]
+]
+},
+{
+"model": "TS-1565",
+"line": "seal",
+"name": "Thread sealant",
+"summary": "EPOBOND TS-1565 single component, low strength, anaerobic pipe sealant. TS-1565 is a very high viscosity, thixotropic pipe sealing paste possessing high lubricity. TS-1565 cures when confined in the absence of air between close fitting metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"White paste"
+],
+[
+"Specific gravity",
+"1.17"
+],
+[
+"Viscosity (cPs)",
+"150,000 - 450,000 (typical 300,000)"
+],
+[
+"Viscosity, second method (cPs)",
+"30,000 - 130,000 (typical 80,000)"
+],
+[
+"Breakaway torque (N/m)",
+"2 - 8 (typical 3.5)"
+],
+[
+"Prevail torque (N/m)",
+"0.5 - 4 (typical 1.5)"
+],
+[
+"Initial fixture time (mins)",
+"<120"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.5"
+],
+[
+"Shelf life (months)",
+"12 (@ 20°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT 'T'-spindle D, 2.5 rpm",
+"Brookfield RVT 'T'-spindle D, 20 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND TS-1565 is formulated to lock and seal medium to coarse straight and tapered pipe threads on pipes @15mm to 80mm. TS-1565 prevents vibration loosening and leakage through the pipe threads. TS-1565 gives low strength break and prevail torque on assembled joints, thus enabling easier disassembly and servicing, which is further helped by the lubricity of TS-1565. TS-1565 will give an almost instant low pressure seal (up to 2 Bar after 20mins.) and when fully cured will seal up to the bursting pressure of the pipe (e.g. 10,000psi)."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed4 as % of final strength",
+"120 mins| Finger Tight",
+"6 hours. ~50% strength |",
+"24 hours | 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"TS-1565 is suitable for most straight and tapered pipe threads of medium to coarse pitch, from @15mm to @80mm pipe. TS-1565 will not cure outside the joint and is virtually non-fouling in most types of pipe systems. Ensure parts are clean, dry and free from oil and grease.",
+"Apply adhesive to all engaged threads, although to minimise excess adhesive inside the joint, apply adhesive only to the male part, leaving the first two threads clear. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint Product is normally hand applied from the bottle. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C.",
+"Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process.",
+"Activator AX-40 should be used when the temperature is less than 5°C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel components anaerobic gasket adhesives will reach full strength more rapidly than on more inert materials such as aluminium and stainless steel EPOBOND Ax-40 activator may be used to accelerate cure speed Anaerobic adhesives only cure in the absence of air and with metal part activation"
+]
+],
+[
+"Cure speed vs. activator",
+[
+"Where speed of cure is too slow or the bond gap is very large, EPOBOND AX-40 Anaerobic Activator may be used to accelerate cure speed. The use of an accelerator may reduce bond strength by up to 30%, EPOBOND recommends testing on the parts to measure the effect."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for TS-1565 is 0.50mm"
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength EPOBOND TS-1565 is suitable for use at temperatures up to 150°C. At 150°C the bond strength will be ~30% of the strength at 21°C.",
+"Heat ageing",
+"EPOBOND TS-1565 retains ~85% full strength when heated to 100°C for 90 days then cooled and tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"TS-1565 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in tt of anaerobic.",
+"Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX-40 Activator may be required on plated parts.",
+"type"
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C. Storage outside this temperature range can adversely affect product properties and may affect the stated shelf life."
+]
+]
+]
+},
+{
+"model": "TS-1577",
+"line": "seal",
+"name": "Thread sealant",
+"summary": "EPOBOND-LOCK 15-1577 is a single component, low-medium strength, anaerobic pipe sealant. 18-1577 is a very high viscosity, thixotropic pipe sealing paste possessing high lubricity. 78-1577 cures when confined in the absence of air between close-fitting metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Fluorescent yellow"
+],
+[
+"Specific gravity",
+"1.12"
+],
+[
+"Viscosity (cPs)",
+"35,000 - 60,000 (typical 48,000)"
+],
+[
+"Viscosity, second method (cPs)",
+"10,000 - 20,000 (typical 15,000)"
+],
+[
+"Breakaway torque (N/m)",
+"8 - 20 (typical 16)"
+],
+[
+"Prevail torque (N/m)",
+"2 - 8 (typical 4.5)"
+],
+[
+"Initial fixture time (mins)",
+"15"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.25"
+],
+[
+"Shelf life (months)",
+"12 (@ 21°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT, spindle 5, 2.5 rpm",
+"Brookfield RVT, spindle 5, 2.0 rpm",
+"On M10 black oxide steel bolt and M10 bright steel nut",
+"ISO 10964"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND-LOCK TS-1577 is formulated to lock and seal medium to coarse straight and tapered pipe threads on pipes of diameter from 15mm to 80mm. T8-1577 prevents vibration loosening and leakage through the pipe threads. 18-1577 is formulated to give medium strength break torque, but lower prevail torque on assembled joints, thus enabling easier disassembly and servicing, Pipe joints made with 78-1577 should be tightened to the specified torque within a maximum of 15 minutes from initial assembly. 78-1577 will give an almost instant low-pressure seal (up to 2 Bar after 20mins) and when fully cured will seal up to the bursting pressure of the pipe (e.g. 10,000psi)."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed as % of final strength",
+"15 mins Finger Tight",
+"Thour ~ 40% strength",
+"24 hours 100% strength"
+]
+],
+[
+"Directions for use",
+[
+"18-1577 is suitable for most straight and tapered pipe threac of medium to coarse pitch, from 615mm to @ 80mm pipe. 18-1577 will not cure outside the joint and is virtually non-fouling in most types of pipe systems. Ensure parts are clean, dry and free from oil and grease. Apply adhesive to all engaged threads, although to minimise excess adhesive insic the joint, apply adhesive only to the male part, leaving the fir two threads clear. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint. Product is normally hand applied from the bottle. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel components anaerobic gasket adhesives will reach full strength more rapidly than on more inert materials such as aluminium and stainless steel.",
+"AX 40 activator may be used to accelerate cure speed Anaerobic adhesives only cure in the absence of air and with metal part activation"
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommender gap for TS-1577 is 0.20mm."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"€EPOBOND-LOCK TS-1577 is suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~20% of the strength at 21°C Heat ageing EPOBOND-LOCK TS-1577 retains ~85% full strength when heated to 100°C for 90 days then cooled and tested at 21°C.",
+"LIMITATIONS.",
+"18-1577 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemical inhibit the cure system in this type of anaerobic. Trials are recommended to establish whether cleaning of the parts is. necessary. AX 40 Activator may be required on plated parts."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"Chemence anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol,brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storac outside this temperature range can adversely affect product properties and affect the stated shelf life"
+]
+]
+]
+},
+{
+"model": "GA-1518",
+"line": "seal",
+"name": "Gasketing compound",
+"summary": "EPOBOND GA-1518 s a single component, low-medium strength, anaerobic gaskel compound. GA-1518 Is a thixotropic product that cures quickly on steel surfaces. GA-1518 cures when confined in the absence of air between close fitting flat metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Orange"
+],
+[
+"Specific gravity",
+"1.11"
+],
+[
+"Viscosity (cPs)",
+"50,000 - 150,000 (typical 100,000)"
+],
+[
+"Viscosity, second method (cPs)",
+"20,000 - 40,000 (typical 30,000)"
+],
+[
+"Tensile shear strength, 24 hrs (N/mm²)",
+"1.5 - 6"
+],
+[
+"Initial fixture time (mins)",
+"20"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.35"
+],
+[
+"Shelf life (months)",
+"12 (@ 20°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT spindle 6, 2.5 rpm",
+"Brookfield RVT spindle 6, 20 rpm",
+"To achieve 0.2 N/mm², on grit blasted mild steel"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND GA-1574 is a form-in-place’ gasket product designed for multi-purpose applications on rigid metal flanges and surfaces, e.9. gearbox casings, machinery covers, pump housings, compressor end caps, etc. GA-1518 cures quickly on steel surfaces and develops low-medium strength. GA-1518 will give an almost instant low pressure seal.",
+"(Up to 0.5 Bar after 20mins. to allow on-line pressure testing."
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed as % of final strength",
+"20 mins 5% strength",
+"3 hours ~30% strength",
+"24 hours | 100% strength",
+"For reference, if used on threaded parts, GA-1518 will give 4",
+"break torque of 6-12Nm and a prevail torque of 1.5-5Nm.",
+"(tested on M10 black oxide steel bolt and M10 bright steel nut)."
+]
+],
+[
+"Directions for use",
+[
+"Ensure parts are clean, dry and free from oil and grease. Apply manually as a continuous bead or by screen printing to one surface. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint.",
+"If the temperature is less than 5°C AX-40 activator should be used.",
+"Product is normally hand applied from the bottle. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. activator",
+[
+"Where speed of cure is too slow or the bond gap is very large, EPOBOND AX-40 Anaerobic Activator may be used to accelerate cure speed. The use of an accelerator may reduce bond strength by up to 30% BOND recommends testing on the parts to measure the effect."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for Ga-1518 is 0.35mm."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21° Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process. Activator AX-40 should be used when the temperature is less than 5°C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel components. anaerobic gasket adhesives will reach full strength more rapidly than on more inert materials such as aluminium and stainless steel, EPOBOND 4x-40 activator may be used to accelerate cure speed Anaerobic adhesives only cure in the absence of air and with metal part activation"
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength",
+"EPOBOND GA-1518 js suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~25% of the strength at 21°C.",
+"Heat ageing EPOBOND GA-1518 retains ~90% of full strength when heated to 100°C for 90 days then cooled and tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"GA-1518 js not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic. Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX-40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C. Storage outside this temperature range can adversely affect product properties and may affect the stated shelf life."
+]
+]
+]
+},
+{
+"model": "GA-1510",
+"line": "seal",
+"name": "Gasketing compound",
+"summary": "EPOBOND GA-1510 is a single component, low-medium strength, anaerobic gasket compound. GA-1510 is a thixotropic. product that cures quickly on steel surfaces. GA-1510 cures when confined in the absence of air between close fitting flat metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Orange"
+],
+[
+"Specific gravity",
+"1.11"
+],
+[
+"Viscosity (cPs)",
+"50,000 - 150,000 (typical 100,000)"
+],
+[
+"Viscosity, second method (cPs)",
+"20,000 - 40,000 (typical 30,000)"
+],
+[
+"Tensile shear strength, 24 hrs (N/mm²)",
+"1.5 - 6"
+],
+[
+"Initial fixture time (mins)",
+"20"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.35"
+],
+[
+"Shelf life (months)",
+"12 (@ 20°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT spindle 6, 2.5 rpm",
+"Brookfield RVT spindle 6, 20 rpm",
+"To achieve 0.2 N/mm², on grit blasted mild steel"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND GA-1574 is a form-in-place’ gasket product designed for multi-purpose applications on rigid metal flanges and surfaces, e.g. gearbox casings, machinery covers, pump housings, compressor end caps, etc. GA-1510 cures quickly on steel surfaces and develops low-medium strength. GA-1510 will give an almost instant low pressure seal (Up to 0.5 Bar after 20mins.) to allow on-line pressure testing"
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed as % of final strength",
+"20 mins 5% strength",
+"3 hours | ~30% strength",
+"24 hours | 100% strength",
+"For reference, if used on threaded parts, GA-1510 will give a",
+"break torque of 6-12Nm and a prevail torque of 1.5-5Nm",
+"(tested on M10 black oxide steel bolt and M10 bright steel nut)."
+]
+],
+[
+"Directions for use",
+[
+"Ensure parts are clean, dry and free from oil and grease. Apply manually as a continuous bead or by screen printing to one surface. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint.",
+"IF the temperature is less than 5°C AX-40 activator should be used, Product is normally hand applied from the bottle. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. activator",
+[
+"Where speed of cure is too slow or the bond gap is very large, EPOBOND AX-40 Anaerobic Activator may be used to accelerate cure speed. The use of an accelerator may reduce bond strength by up to 30%.",
+"EPOBOND recommends testing on the parts to measure the effect."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for Ga.1510 is 0.35mm."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process. Activator AX-40 should be used when the temperature is less than 5°C"
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild steel components anaerobic gasket adhesives will reach full strength more rapidly than on more inert materials such as aluminium and stainiess steel EPOBOND Ax-40 activator may be used to ai cure speed.",
+"Anaerobic adhesives only cure in the absence of air and with metal part activatior"
+]
+],
+[
+"Typical environmental resistance",
+[
+"celerate",
+"Hot strength EPOBOND GA-1510 js suitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~25% of the strength at 21°C.",
+"Heat ageing EPOBOND 6a-1510 retains ~90% of full strength when heated to 100°C for 90 days then cooled and tested at 2V°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND anaerobics exhibit excellent chemical resistance to most oils and solvents including motor oil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"GA-1510 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic. Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX-40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C Storage outside this temperature range can adversely affect product properties and may affect the stated shelf life."
+]
+]
+]
+},
+{
+"model": "GA-1574",
+"line": "seal",
+"name": "Gasketing compound",
+"summary": "EPOBOND GA-1574 is a single component, low-medium strength, anaerobic gasket compound. GA-1574 is a thixotropic product that cures quickly on steel surfaces. GA-1574 cures when confined in the absence of air between close fitting flat metal surfaces.",
+"specs": [
+[
+"Chemical type",
+"Dimethacrylate"
+],
+[
+"Appearance",
+"Orange"
+],
+[
+"Specific gravity",
+"1.11"
+],
+[
+"Viscosity (cPs)",
+"50,000 - 150,000 (typical 100,000)"
+],
+[
+"Viscosity, second method (cPs)",
+"20,000 - 40,000 (typical 30,000)"
+],
+[
+"Tensile shear strength, 24 hrs (N/mm²)",
+"1.5 - 6"
+],
+[
+"Initial fixture time (mins)",
+"20"
+],
+[
+"Full cure (hrs)",
+"24"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.35"
+],
+[
+"Shelf life (months)",
+"12 (@ 20°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT spindle 6, 2.5 rpm",
+"Brookfield RVT spindle 6, 20 rpm",
+"To achieve 0.2 N/mm², on grit blasted mild steel"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND GA-1574 is a form-in-place’ gasket product designed for multi-purpose applications on rigid metal flanges and surfaces, €.g. gearbox casings, machinery covers, pump housings, compressor end caps, etc. GA-1574 cures quickly on sleel surfaces and develops low-medium strength. GA-1574 will give an almost instant low pressure seal (Up to 0.5 Bar after 20mins.) to allow on-line pressure testing"
+]
+],
+[
+"Curing performance",
+[
+"Typical curing speed as % of final strength",
+"20 mins 5% strength",
+"Shours | ~30% strength",
+"24 hours | 100% strength",
+"For reference, if used on threaded parts, GA-1574 will give a",
+"break torque of 6-12Nm and a prevail torque of 1.5-5Nm.",
+"(tested on M10 black oxide steel bolt and M10 bright steel nut)."
+]
+],
+[
+"Directions for use",
+[
+"Ensure parts are clean, dry and free from oil and grease Apply manually as a continuous bead or by screen printing to one surface. Assemble parts and allow to cure. Wipe excess adhesive from outside of joint.",
+"If the temperature is less than 5°C AX-40 activator should be used Product is normally hand applied from the bottle. Dispensing systems are available for high volume assembly applications. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. activator",
+[
+"Where speed of cure is too slow or the bond gap is very large, EPOBOND AX-40 Anaerobic Activator may be used to accelerate cure speed. The use of an accelerator may reduce bond strength by up to 30%.",
+"EPOBOND recommends testing on the parts to measure the effect."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"The size of the bond gap greatly affects the speed of cure of anaerobic adhesives. The larger the gap between the mating surfaces, the slower the cure speed. Maximum recommended gap for GA-1574 is 0.35mm."
+]
+],
+[
+"Cure speed vs. temperature",
+[
+"All figures relating to cure speed are tested at 21°C. Lower temperatures will result in slower cure. Heating the assembled parts accelerates the curing process. Activator AX-40 should be used when the temperature is less than 5°C."
+]
+],
+[
+"Cure speed vs. substrate",
+[
+"Cure speed and strength vary according to the substrates. When used on mild ste! components anaerobic gasket adnesives will reach full strength more rapidly than on more inert materials such as aluminium and stainless steel EPOBOND AX-40 activator may be used to accelerate cure speed.",
+"Anaerobic adhesives only cure in the absence of air and with metal part activation."
+]
+],
+[
+"Typical environmental resistance",
+[
+"Hot strength EPOBOND GA-1574 js cuitable for use at temperatures up to 150°C. At 130°C the bond strength will be ~25% af the strength at 21°C Heat ageing EPOBOND 6A-1574 retains ~90% of full strength when heated to 100°C for 90 days then cooled and tested at 21°C"
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"EPOBOND anaerobics exhibit excellent chemical resistance to most oils and solvents including motor cil, leaded petrol, brake fluid, acetone, ethanol, propanol and water. Anaerobic adhesives and sealants are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Limitations",
+[
+"GA-1574 is not recommended on certain plastics as stress cracking can sometimes result. Some anti corrosion chemicals inhibit the cure system in this type of anaerobic. Trials are recommended to establish whether cleaning of the parts is necessary.",
+"AX-40 Activator may be required on plated parts."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conditions are between 8°C and 21°C. Storage outside this temperature range can adversely affect product properties and may affect the stated shelf life."
+]
+]
+]
+},
+{
+"model": "UV-5253",
+"line": "fix",
+"name": "UV adhesive",
+"summary": "EPOBOND UV 5253 is a single component, high viscosity adhesive formulated for bonding glass to glass and glass to metal. It cures rapidly to give a clear bond when exposed to Uv-iight (@365nm - see curing mechanism)",
+"specs": [
+[
+"Chemical type",
+"Urethane acrylate ester"
+],
+[
+"Appearance",
+"Clear"
+],
+[
+"Specific gravity",
+"1.09"
+],
+[
+"Viscosity (cPs)",
+"5500 - 7500 (typical 6500)"
+],
+[
+"Fixture time (secs)",
+"<3"
+],
+[
+"Depth of cure",
+"3"
+],
+[
+"Tensile strength (N/mm²)",
+"6 - 15 (typical 10)"
+],
+[
+"Refractive index",
+"1.4620 - 1.4720"
+],
+[
+"Hardness (Shore D)",
+"71 - 77"
+],
+[
+"Flash point (°C)",
+">100"
+],
+[
+"Max gap fill (mm)",
+"0.5"
+],
+[
+"Shelf life (months)",
+"12 (@ 20°C)"
+],
+[
+"Temperature range, continuous (°C)",
+"-50 to +150"
+]
+],
+"notes": [
+"Brookfield RVT, spindle 3, 2.5 rpm",
+"Glass slide fixture, 20 mW/cm² @ 365 nm",
+"Cured for 30 secs @ 10 mW/cm² @ 365 nm",
+"Grit blasted mild steel to glass, ASTM D2095-69"
+],
+"sections": [
+[
+"Typical applications",
+[
+"EPOBOND UV 5253 is suited to applications requiring a tough cured polymer and rapid bonding. EPOBOND UV 5253 gives medium-high strength bonding of glass and glass to metal. Typical uses include glass ornaments, jewellery assembly and bonding glass furniture and displays"
+]
+],
+[
+"Curing performance",
+[
+"Glass Slide Fixture Time in seconds, using Ho vapour lamp:",
+"tomWicm2. meee <10",
+"20mWiem2 83",
+"Surface cure time (o achieve dry to touch @ 250nm):",
+"10mWicm2 oes - No Data",
+"30mWicm2 <30"
+]
+],
+[
+"Directions for use",
+[
+"EPOBOND UV-curing adhesives are very sensitive to Uv-light. As such, measures must be taken to protect the adhesive from exposure to UV-light from the lamp, sunlight and artificial lighting to prevent unwanted curing.",
+"The adhesives should be applied to clean, dry parts. Once the adhesive is applied, the parts can be positioned correctly and then exposed to UV-light to initiate curing.",
+"Ensure parts are clean, dry and free from oil and grease. Apply adhesive to one surface, bring parts together and expose the bond area to UV-light. Ensure that all of the bond is exposed Excess adhesive can be wiped away with EPOBOND LA-70 Safety Clean or alcohol Product can be hand applied from the bottle. Dispensing systems are also available for high volume assembly applications. Feed lines for the dispensing system must have black, UV-opaque tubing to avoid adhesive curing in the lines. Please contact your EPOBOND representative for further advice on dispensing solutions."
+]
+],
+[
+"Cure speed vs. bond gap",
+[
+"EPOBOND UV 5253 is designed for bonding closely fitting glass and metal parts. UY 5253 can be used to a maximum depth of ~3mm.",
+"Cure Speed VS. Intensity EPOBOND UV 5253 can be cured using sunlight. However, for a controlled, repeatable cure, UV lamps should be used"
+]
+],
+[
+"Curing mechanism",
+[
+"EPOBOND UV 5253 is formulated to cure when exposed to UV radiation of 365nm. To obtain a dry to touch finish, the adhesive should be cured in the absence of oxygen or with UV radiation of 250nm."
+]
+],
+[
+"Typical environmental resistance",
+[
+"RESISTANCE",
+"Hot strength",
+"EPOBOND UV 5253 is suitable for use at temperatures up to 130°C. At 130°C the bond strength will be 0% of the strength at 21°C Heat ageing EPOBOND UV 5253 exhibits excellent resistance to heat ageing. Typically, exposure to heat for a prolonged period, results in fully curing any uncured resin that may remain. This has the effect of increasing the bond strength when subsequently tested at 21°C."
+]
+],
+[
+"Chemical / solvent resistance",
+[
+"including alcohols, methylated spirit water. EPOBOND UV-curing adhesives are not recommended for use in pure oxygen or chlorine lines."
+]
+],
+[
+"Storage",
+[
+"Optimal storage conitions are between 8°C and 21°C. Storage outside this temperature range can adversely affect product properties and may affect the stated shelf life,"
+]
+]
+]
+},
+{
+"model": "5251",
+"line": "epoxy",
+"name": "4 Minute Steel quick set epoxy",
+"summary": "Two-part quick set epoxy for bonding, filling and sealing metal. Sets in 3-4 minutes.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Twin pack with applicator"
+],
+[
+"Setting time",
+"3-4 minutes"
+],
+[
+"Best for",
+"Metal to metal bonding; industrial, automotive and household use"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Metal to metal bonding; industrial, automotive and household use."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "2020",
+"line": "epoxy",
+"name": "Epoxy Steel 4 MIN",
+"summary": "Two-part quick set epoxy for metal repair, supplied on a blister card.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Blister card"
+],
+[
+"Setting time",
+"4 minutes"
+],
+[
+"Best for",
+"Metal repair and bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Metal repair and bonding."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "5555",
+"line": "epoxy",
+"name": "Epoxy Steel 4 MIN, carded pack",
+"summary": "Two-part quick set epoxy for metal repair, supplied on a blister card.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Blister card"
+],
+[
+"Setting time",
+"4 minutes"
+],
+[
+"Best for",
+"Metal repair and bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Metal repair and bonding."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "EMSS",
+"line": "epoxy",
+"name": "Epoxy Metal",
+"summary": "Two-part metal epoxy in a double syringe for repairing and bonding metal parts.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Double syringe, net weight 22.4 g"
+],
+[
+"Best for",
+"Metal repair and bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Metal repair and bonding."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "EX-1421",
+"line": "epoxy",
+"name": "Structural bonding epoxy",
+"summary": "Multi-purpose, high strength epoxy adhesive supplied as resin and hardener tubs.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Resin and hardener tubs"
+],
+[
+"Best for",
+"Multi-purpose, high strength bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Multi-purpose, high strength bonding."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "EX-1475",
+"line": "epoxy",
+"name": "Structural bonding epoxy for metal repair",
+"summary": "Multi-purpose, high strength epoxy adhesive and metal repair compound supplied as resin and hardener tubs.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Resin and hardener tubs"
+],
+[
+"Best for",
+"Multi-purpose bonding and metal repair"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Multi-purpose bonding and metal repair."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "1430",
+"line": "epoxy",
+"name": "Structural bonding epoxy",
+"summary": "Multi-purpose, high strength epoxy adhesive supplied as resin and hardener tubs.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Resin and hardener tubs"
+],
+[
+"Best for",
+"Multi-purpose, high strength bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Multi-purpose, high strength bonding."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "1440",
+"line": "epoxy",
+"name": "Structural bonding epoxy",
+"summary": "High strength epoxy adhesive for applications that need high strength, supplied as resin and hardener tubs.",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Resin and hardener tubs"
+],
+[
+"Best for",
+"Applications that need high strength"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Applications that need high strength."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "1010",
+"line": "epoxy",
+"name": "Epoxy clear adhesive",
+"summary": "Extra fast, super strong, waterproof clear epoxy in a twin syringe.",
+"specs": [
+[
+"Type",
+"Two-part epoxy, clear"
+],
+[
+"Pack",
+"Twin syringe, net weight 23.2 g"
+],
+[
+"Setting time",
+"4 minutes"
+],
+[
+"Best for",
+"Clear, waterproof, extra strong bonds"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Clear, waterproof, extra strong bonds."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "1011",
+"line": "epoxy",
+"name": "Epoxy crystal clear",
+"summary": "Crystal clear two-part epoxy in a twin syringe.",
+"specs": [
+[
+"Type",
+"Two-part epoxy, clear"
+],
+[
+"Pack",
+"Twin syringe, net weight 22.4 g"
+],
+[
+"Setting time",
+"4 minutes"
+],
+[
+"Best for",
+"Clear, strong bonds"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Clear, strong bonds."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "ECC",
+"line": "epoxy",
+"name": "Epoxy clear",
+"summary": "Clear two-part epoxy supplied as two tubes (A and B) on a blister card.",
+"specs": [
+[
+"Type",
+"Two-part epoxy, clear"
+],
+[
+"Pack",
+"Blister card with tubes A and B"
+],
+[
+"Setting time",
+"4 minutes"
+],
+[
+"Best for",
+"Clear, strong bonds"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Clear, strong bonds."
+]
+],
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts of resin and hardener and mix thoroughly until the colour is uniform.",
+"Apply to one or both surfaces, join the parts and hold or clamp until set.",
+"Allow the full cure time before putting the bond under load; cure time depends on temperature."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "6650",
+"line": "putty",
+"name": "Super Quick steel putty, 20 ml",
+"summary": "Epoxy putty for filling gaps, sealing cracks and stopping leaks. Once cured it can be sanded and painted and resists acids, alkalis and heat up to 140 °C.",
+"specs": [
+[
+"Type",
+"Epoxy putty"
+],
+[
+"Pack",
+"20 ml"
+],
+[
+"Best for",
+"Filling gaps, sealing cracks and stopping leaks"
+],
+[
+"Heat resistance (cured)",
+"Up to 140 °C"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Filling gaps, sealing cracks and stopping leaks."
+]
+],
+[
+"How to use",
+[
+"Cut off the amount needed.",
+"Knead by hand until the colour is uniform.",
+"Press into the gap, crack or around the part and smooth the surface.",
+"Leave to harden before use."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "SQW",
+"line": "putty",
+"name": "Super Quick epoxy putty",
+"summary": "Mouldable epoxy putty stick for bonding, completing and filling.",
+"specs": [
+[
+"Type",
+"Epoxy putty"
+],
+[
+"Pack",
+"Putty stick"
+],
+[
+"Best for",
+"Bonding, completing and filling"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Bonding, completing and filling."
+]
+],
+[
+"How to use",
+[
+"Cut off the amount needed.",
+"Knead by hand until the colour is uniform.",
+"Press into the gap, crack or around the part and smooth the surface.",
+"Leave to harden before use."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "SQB",
+"line": "putty",
+"name": "Super Quick epoxy putty",
+"summary": "Mouldable epoxy putty stick for bonding, completing and filling.",
+"specs": [
+[
+"Type",
+"Epoxy putty"
+],
+[
+"Pack",
+"Putty stick"
+],
+[
+"Best for",
+"Bonding, completing and filling"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Bonding, completing and filling."
+]
+],
+[
+"How to use",
+[
+"Cut off the amount needed.",
+"Knead by hand until the colour is uniform.",
+"Press into the gap, crack or around the part and smooth the surface.",
+"Leave to harden before use."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "EPW",
+"line": "putty",
+"name": "Epoxy putty for plumbing",
+"summary": "Epoxy putty for fixing and sealing openings in pipes. It can harden in a wet environment.",
+"specs": [
+[
+"Type",
+"Epoxy putty"
+],
+[
+"Pack",
+"Putty stick"
+],
+[
+"Best for",
+"Fixing and sealing openings in pipes, including wet conditions"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Fixing and sealing openings in pipes, including wet conditions."
+]
+],
+[
+"How to use",
+[
+"Cut off the amount needed.",
+"Knead by hand until the colour is uniform.",
+"Press into the gap, crack or around the part and smooth the surface.",
+"Leave to harden before use."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "EW5C",
+"line": "putty",
+"name": "Epoxy putty for plumbing",
+"summary": "Epoxy putty for fixing and sealing openings in pipes. It can harden in a wet environment.",
+"specs": [
+[
+"Type",
+"Epoxy putty"
+],
+[
+"Pack",
+"Putty stick"
+],
+[
+"Best for",
+"Fixing and sealing openings in pipes, including wet conditions"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Fixing and sealing openings in pipes, including wet conditions."
+]
+],
+[
+"How to use",
+[
+"Cut off the amount needed.",
+"Knead by hand until the colour is uniform.",
+"Press into the gap, crack or around the part and smooth the surface.",
+"Leave to harden before use."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "EW24C",
+"line": "putty",
+"name": "Epoxy putty for plumbing",
+"summary": "Epoxy putty for fixing and sealing openings in pipes. It can harden in a wet environment.",
+"specs": [
+[
+"Type",
+"Epoxy putty"
+],
+[
+"Pack",
+"Putty stick"
+],
+[
+"Best for",
+"Fixing and sealing openings in pipes, including wet conditions"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Fixing and sealing openings in pipes, including wet conditions."
+]
+],
+[
+"How to use",
+[
+"Cut off the amount needed.",
+"Knead by hand until the colour is uniform.",
+"Press into the gap, crack or around the part and smooth the surface.",
+"Leave to harden before use."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "SGC100",
+"line": "glue",
+"name": "Super glue, counter display box",
+"summary": "Fast-setting cyanoacrylate super glue for everyday household repairs and bonding.",
+"specs": [
+[
+"Type",
+"Cyanoacrylate super glue"
+],
+[
+"Pack",
+"Display box of tubes"
+],
+[
+"Best for",
+"Everyday household repairs and bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Everyday household repairs and bonding."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean, dry and fit closely together.",
+"Apply a small amount to one surface and press the parts together for a few seconds.",
+"Avoid excess: more glue does not give a stronger bond.",
+"The glue bonds skin in seconds, so keep it away from skin and eyes."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "SGC3",
+"line": "glue",
+"name": "Super glue, buy 2 get 1 free pack",
+"summary": "Fast-setting cyanoacrylate super glue for everyday household repairs and bonding.",
+"specs": [
+[
+"Type",
+"Cyanoacrylate super glue"
+],
+[
+"Pack",
+"Carded pack"
+],
+[
+"Best for",
+"Everyday household repairs and bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Everyday household repairs and bonding."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean, dry and fit closely together.",
+"Apply a small amount to one surface and press the parts together for a few seconds.",
+"Avoid excess: more glue does not give a stronger bond.",
+"The glue bonds skin in seconds, so keep it away from skin and eyes."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "SGCC",
+"line": "glue",
+"name": "Super glue, carded pack",
+"summary": "Fast-setting cyanoacrylate super glue for everyday household repairs and bonding.",
+"specs": [
+[
+"Type",
+"Cyanoacrylate super glue"
+],
+[
+"Pack",
+"Blister card"
+],
+[
+"Best for",
+"Everyday household repairs and bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Everyday household repairs and bonding."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean, dry and fit closely together.",
+"Apply a small amount to one surface and press the parts together for a few seconds.",
+"Avoid excess: more glue does not give a stronger bond.",
+"The glue bonds skin in seconds, so keep it away from skin and eyes."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "STR",
+"line": "glue",
+"name": "Super glue, strip pack",
+"summary": "Fast-setting cyanoacrylate super glue for everyday household repairs and bonding.",
+"specs": [
+[
+"Type",
+"Cyanoacrylate super glue"
+],
+[
+"Pack",
+"Strip of tubes"
+],
+[
+"Best for",
+"Everyday household repairs and bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Everyday household repairs and bonding."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean, dry and fit closely together.",
+"Apply a small amount to one surface and press the parts together for a few seconds.",
+"Avoid excess: more glue does not give a stronger bond.",
+"The glue bonds skin in seconds, so keep it away from skin and eyes."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "MDF 400 ml",
+"line": "glue",
+"name": "MultiBond adhesive activator, 400 ml",
+"summary": "Spray activator used with MultiBond adhesive for bonding wood and MDF.",
+"specs": [
+[
+"Type",
+"Aerosol adhesive activator"
+],
+[
+"Pack",
+"400 ml"
+],
+[
+"Best for",
+"Wood and MDF"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Wood and MDF."
+]
+],
+[
+"How to use",
+[
+"Spray the activator on one surface and apply the adhesive to the other.",
+"Join the parts and hold briefly while the bond forms.",
+"Use in a ventilated area and keep the activator away from heat and flame."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "MDF 200 ml",
+"line": "glue",
+"name": "MultiBond adhesive activator, 200 ml",
+"summary": "Spray activator used with MultiBond adhesive for bonding wood and MDF.",
+"specs": [
+[
+"Type",
+"Aerosol adhesive activator"
+],
+[
+"Pack",
+"200 ml"
+],
+[
+"Best for",
+"Wood and MDF"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Wood and MDF."
+]
+],
+[
+"How to use",
+[
+"Spray the activator on one surface and apply the adhesive to the other.",
+"Join the parts and hold briefly while the bond forms.",
+"Use in a ventilated area and keep the activator away from heat and flame."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "GP 5000",
+"line": "glue",
+"name": "Epo Seal cyanoacrylate adhesive",
+"summary": "Cyanoacrylate adhesive supplied in a bottle for general bonding.",
+"specs": [
+[
+"Type",
+"Cyanoacrylate adhesive"
+],
+[
+"Pack",
+"Bottle"
+],
+[
+"Best for",
+"General bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"General bonding."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean, dry and fit closely together.",
+"Apply a small amount to one surface and press the parts together for a few seconds.",
+"Avoid excess: more glue does not give a stronger bond.",
+"The glue bonds skin in seconds, so keep it away from skin and eyes."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "GP 2000",
+"line": "glue",
+"name": "Epo Seal cyanoacrylate adhesive",
+"summary": "Cyanoacrylate adhesive supplied in a bottle for general bonding.",
+"specs": [
+[
+"Type",
+"Cyanoacrylate adhesive"
+],
+[
+"Pack",
+"Bottle"
+],
+[
+"Best for",
+"General bonding"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"General bonding."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean, dry and fit closely together.",
+"Apply a small amount to one surface and press the parts together for a few seconds.",
+"Avoid excess: more glue does not give a stronger bond.",
+"The glue bonds skin in seconds, so keep it away from skin and eyes."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "CollaFix 10 gm",
+"line": "glue",
+"name": "CollaFix contact adhesive",
+"summary": "Easy to use contact adhesive for all kinds of leather, shoes and bags, for home and personal use.",
+"specs": [
+[
+"Type",
+"Contact adhesive"
+],
+[
+"Pack",
+"10 gm tube"
+],
+[
+"Best for",
+"Leather, shoes and bags"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Leather, shoes and bags."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean and dry.",
+"Apply a thin layer, let it become tacky if the pack instructs, then press together firmly.",
+"Hold or weigh down the parts until the bond has set."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "CollaFix 25 gm",
+"line": "glue",
+"name": "CollaFix contact adhesive",
+"summary": "Easy to use contact adhesive for all kinds of leather, shoes and bags, for home and personal use.",
+"specs": [
+[
+"Type",
+"Contact adhesive"
+],
+[
+"Pack",
+"25 gm tube"
+],
+[
+"Best for",
+"Leather, shoes and bags"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Leather, shoes and bags."
+]
+],
+[
+"How to use",
+[
+"Surfaces should be clean and dry.",
+"Apply a thin layer, let it become tacky if the pack instructs, then press together firmly.",
+"Hold or weigh down the parts until the bond has set."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "AB Glue",
+"line": "glue",
+"name": "AB glue, two-part adhesive",
+"summary": "Two-part adhesive (tubes A and B) for strong, fast repairs.",
+"specs": [
+[
+"Type",
+"Two-part adhesive"
+],
+[
+"Pack",
+"Blister card with tubes A and B"
+],
+[
+"Best for",
+"Strong, fast repairs"
+]
+],
+"notes": [],
+"sections": [
+[
+"Typical uses",
+[
+"Strong, fast repairs."
+]
+],
+[
+"How to use",
+[
+"Squeeze equal amounts from tubes A and B and mix thoroughly.",
+"Apply to clean, dry surfaces and join the parts.",
+"Hold or clamp until set and allow the full cure time before loading."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "TL-1272",
+"line": "lock",
+"name": "Threadlocker",
+"summary": "Threadlocker with high viscosity and high temperature performance. Full datasheet to follow.",
+"specs": [
+[
+"Product type",
+"Threadlocker"
+],
+[
+"Features",
+"High viscosity, high temperature"
+],
+[
+"Pack",
+"50 gm net"
+]
+],
+"notes": [],
+"sections": [
+[
+"How to use",
+[
+"Clean and degrease the parts so they are free from oil, grease and dirt.",
+"Apply the product to the threads or the fitting surfaces, then assemble the parts.",
+"Tighten as normal and allow time to cure before putting the assembly under load."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "TL-1290",
+"line": "lock",
+"name": "Threadlocker",
+"summary": "Low viscosity threadlocker that permits disassembly. Full datasheet to follow.",
+"specs": [
+[
+"Product type",
+"Threadlocker"
+],
+[
+"Features",
+"Low viscosity, permits disassembly"
+],
+[
+"Pack",
+"50 gm net"
+]
+],
+"notes": [],
+"sections": [
+[
+"How to use",
+[
+"Clean and degrease the parts so they are free from oil, grease and dirt.",
+"Apply the product to the threads or the fitting surfaces, then assemble the parts.",
+"Tighten as normal and allow time to cure before putting the assembly under load."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "BR-1620",
+"line": "lock",
+"name": "Retaining compound",
+"summary": "Retaining compound offering maximum strength for permanent assemblies. Full datasheet to follow.",
+"specs": [
+[
+"Product type",
+"Retaining compound"
+],
+[
+"Features",
+"Maximum strength, permanent"
+],
+[
+"Pack",
+"50 gm net"
+]
+],
+"notes": [],
+"sections": [
+[
+"How to use",
+[
+"Clean and degrease the parts so they are free from oil, grease and dirt.",
+"Apply the product to the threads or the fitting surfaces, then assemble the parts.",
+"Tighten as normal and allow time to cure before putting the assembly under load."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "CX-454",
+"line": "fast",
+"name": "Instant adhesive (cyanoacrylate)",
+"summary": "High performance cyanoacrylate instant adhesive. Full datasheet to follow.",
+"specs": [
+[
+"Product type",
+"Cyanoacrylate instant adhesive"
+]
+],
+"notes": [],
+"sections": [
+[
+"How to use",
+[
+"Surfaces should be clean, dry and fit closely together.",
+"Apply a small amount to one surface and press the parts together until the bond holds.",
+"Use as little adhesive as possible; excess slows cure and weakens the bond."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "UV-5200",
+"line": "fix",
+"name": "UV adhesive",
+"summary": "UV-curing adhesive for glass to glass bonding. Full datasheet to follow.",
+"specs": [
+[
+"Product type",
+"UV adhesive"
+],
+[
+"Best for",
+"Glass to glass"
+],
+[
+"Pack",
+"50 gm net"
+]
+],
+"notes": [],
+"sections": [
+[
+"How to use",
+[
+"Clean the glass surfaces so they are free from oil and dust.",
+"Apply the adhesive, join the parts and expose to UV light to cure.",
+"Cure time depends on the UV source and the bond thickness."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+},
+{
+"model": "Epoxy Rapid",
+"line": "epoxy",
+"name": "Epoxy Rapid",
+"summary": "Two-part epoxy supplied as two tubes in a box (85 g).",
+"specs": [
+[
+"Type",
+"Two-part epoxy"
+],
+[
+"Pack",
+"Box with two tubes, 85 g"
+],
+[
+"Best for",
+"General bonding and repair"
+]
+],
+"notes": [],
+"sections": [
+[
+"How to use",
+[
+"Clean and dry both surfaces; lightly roughen smooth surfaces for a stronger bond.",
+"Dispense equal amounts from both tubes and mix thoroughly until the colour is uniform.",
+"Apply, join the parts and hold or clamp until set, then allow the full cure time before loading."
+]
+],
+[
+"Storage and safety",
+[
+"Store in a cool, dry place away from direct sunlight, with the cap or lid closed.",
+"Avoid contact with skin and eyes, use in a ventilated area and keep out of reach of children. Read the instructions on the pack."
+]
+]
+],
+"draft": true
+}
+]
