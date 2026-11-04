@@ -5,7 +5,7 @@ const RIGHT = "M200 330 L224 330 Q224 360 240 385 Q286 420 286 470 Q286 520 252 
 const SEAM = "M200 330 L194 360 L205 390 L192 420 L206 455 L194 490 L204 520 L200 540";
 export default function HeroBottle() {
   return (
-    <svg viewBox="0 0 400 580" role="img" aria-label="Epobond Lock glue repairing a broken vase" className="mx-auto w-full max-w-[420px] drop-shadow-[0_30px_40px_rgba(0,0,0,.55)]">
+    <svg viewBox="0 0 400 580" role="img" aria-label="Epobond Lock glue repairing a broken vase" className="mx-auto w-full max-w-[260px] sm:max-w-[420px] md:drop-shadow-[0_30px_40px_rgba(0,0,0,.55)]">
       <defs>
         <linearGradient id="hbBody" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stopColor="#8f1118" /><stop offset=".35" stopColor="#e5373d" /><stop offset=".7" stopColor="#c01e25" /><stop offset="1" stopColor="#7a0e14" /></linearGradient>
         <linearGradient id="hbNozzle" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stopColor="#c9ccd6" /><stop offset=".4" stopColor="#ffffff" /><stop offset="1" stopColor="#b9bdc9" /></linearGradient>

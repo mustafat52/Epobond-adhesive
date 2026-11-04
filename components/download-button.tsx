@@ -63,7 +63,7 @@ async function makePdf(p: Product) {
 
 export default function DownloadButton({ p }: { p: Product }) {
   return (
-    <button onClick={() => makePdf(p)} className="inline-flex items-center gap-2 rounded-full border border-ink/25 px-6 py-3 text-sm font-semibold text-ink transition hover:border-gold hover:bg-white/60">
+    <button onClick={() => makePdf(p)} className="inline-flex w-full items-center justify-center gap-2 sm:w-auto rounded-full border border-ink/25 px-6 py-3 text-sm font-semibold text-ink transition hover:border-gold hover:bg-ink/10">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16" /></svg>
       Download datasheet
     </button>

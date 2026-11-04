@@ -1,11 +1,11 @@
-import { PRODUCTS } from "@/lib/products";
+import { Product } from "@/lib/products";
 
 // "From datasheet to order": each step shows a small piece of the real interface instead of an icon.
-export default function Steps() {
-  const p = PRODUCTS.find((x) => x.model === "CX-406")!;
+export default function Steps({ product }: { product?: Product }) {
+  const p = product ?? { model: "Product", specs: [] as [string, string][] };
   const panel = "flex h-44 items-center justify-center rounded-2xl border border-ink/10 bg-white shadow-md";
   return (
-    <section data-reveal className="mx-auto max-w-6xl px-6 pt-24">
+    <section data-reveal className="mx-auto max-w-6xl px-6 pt-16 md:pt-24">
       <p className="mb-10 text-sm font-semibold uppercase tracking-[0.22em] text-golddk">From datasheet to order</p>
       <div data-stagger className="grid md:grid-cols-3">
         <div className="pb-10 md:border-r md:border-ink/15 md:pb-0 md:pr-10">

@@ -102,3 +102,18 @@ body { background: rgb(var(--paper)) linear-gradient(180deg, rgb(var(--paper-top
 .hb-d4 { animation: hbDrop4 12s ease-in infinite; }
 @keyframes hbDrop4 { 0%,56% { opacity: 0; transform: translateY(0) scale(.2) } 57% { opacity: 1; transform: translateY(0) scale(.55) } 58.5% { opacity: 1; transform: translateY(4px) scale(.85,1.2) } 61% { opacity: 1; transform: translateY(94px) scale(.9,1.35) } 61.4%,100% { opacity: 0; transform: translateY(96px) scale(.3) } }
 @media (prefers-reduced-motion: reduce) { .hb-bottle, .hb-cap, .hb-d1, .hb-d2, .hb-d3, .hb-d4, .hb-bead, .hb-hl, .hb-hr, .hb-vase, .hb-seam, .hb-glow { animation: none !important; } .hb-seam { stroke-dashoffset: 0; } }
+html, body { overflow-x: clip; }
+a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.marquee-track { will-change: transform; }
+.float-md { }
+@media (min-width: 768px) { .float-md { animation: floaty 5.5s ease-in-out infinite; } }
+[data-paused="true"] * { animation-play-state: paused !important; }
+@media (max-width: 767px) {
+  body { background-attachment: scroll; }
+  .shimmer, .btn-glow { animation: none; }
+  .hazard { height: 8px; }
+  [data-reveal] { transform: translateY(16px); }
+}
+@media (prefers-reduced-motion: reduce) { .float-md { animation: none; } }

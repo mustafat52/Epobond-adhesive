@@ -1,9 +1,7 @@
-import data from "./data.json";
-import { IMAGES } from "./images";
 // TODO: replace with client data. storeUrl = link to the client's store page ("#" = not listed yet).
 export const SITE = { name: "Epobond for Chemicals", address: "6 October City, Giza, Egypt", tagline: "Technical data, applications and directions for every adhesive and sealant, before you buy.", phone: "+00 000 000 0000", email: "info@example.com" };
 export type Spec = [string, string];
-export type Product = { slug: string; model: string; name: string; line: string; summary: string; specs: Spec[]; notes: string[]; sections: [string, string[]][]; storeUrl: string; segment: string; images: string[] };
+export type Product = { slug: string; model: string; name: string; line: string; summary: string; specs: Spec[]; notes: string[]; sections: [string, string[]][]; storeUrl: string; segment: string; images: string[]; draft?: boolean };
 export const LINES = [
   { id: "fast", segment: "industrial", name: "EPOBOND-Fast", tag: "Instant adhesives", color: "#3b6cff", desc: "Cyanoacrylate instant adhesives for fast, high-strength bonding. Choose by viscosity, gap-filling ability and the materials you are bonding." },
   { id: "lock", segment: "industrial", name: "EPOBOND-Lock", tag: "Threadlockers and retaining compounds", color: "#d4453f", desc: "Anaerobic threadlockers and retaining compounds that cure when confined in the absence of air on close-fitting metal parts." },
@@ -17,7 +15,6 @@ export const SEGMENTS = [
   { id: "household", name: "Household", desc: "Epoxy, super glue, epoxy putty and everyday repair adhesives for the home and workshop." },
   { id: "industrial", name: "Industrial", desc: "Technical adhesives, threadlockers, retaining compounds, sealants and gasketing, each with a full technical datasheet." },
 ];
-export const PRODUCTS: Product[] = (data as any[]).map((d) => ({ ...d, slug: slugify(d.model), storeUrl: "#", images: IMAGES[d.model] ?? [], segment: LINES.find((l) => l.id === d.line)!.segment }));
 export const lineOf = (id: string) => LINES.find((l) => l.id === id)!;
 export function slugify(s: string) { return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""); }
 export const spec = (p: Product, re: RegExp) => {

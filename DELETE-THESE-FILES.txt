@@ -1,0 +1,9 @@
+Delete these old files from the project (the new code no longer uses them):
+lib/data.json
+lib/images.ts
+components/hero-orbit.tsx
+components/range-browser.tsx
+components/showcase-3d.tsx
+components/product-index.tsx
+components/product-card.tsx
+components/need-index.tsx
