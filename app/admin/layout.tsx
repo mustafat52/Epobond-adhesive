@@ -1,4 +1,6 @@
+import "../globals.css";
 import Link from "next/link";
+import { display, body } from "@/lib/fonts";
 import { cookies } from "next/headers";
 import { COOKIE, verifyToken } from "@/lib/auth";
 import LogoutButton from "@/components/admin/logout-button";
@@ -6,6 +8,8 @@ export const metadata = { title: "Admin", robots: { index: false, follow: false 
 export default async function AdminLayout({ children }: { children: React.ReactNode }) {
   const authed = await verifyToken(cookies().get(COOKIE)?.value);
   return (
+    <html lang="en" className={`${display.variable} ${body.variable}`}>
+    <body className="font-body">
     <div className="min-h-screen bg-neutral-100 text-neutral-900">
       <header className="border-b border-neutral-200 bg-white">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
@@ -15,5 +19,7 @@ export default async function AdminLayout({ children }: { children: React.ReactN
       </header>
       <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6">{children}</div>
     </div>
+    </body>
+    </html>
   );
 }

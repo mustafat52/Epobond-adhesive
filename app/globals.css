@@ -117,3 +117,16 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
   [data-reveal] { transform: translateY(16px); }
 }
 @media (prefers-reduced-motion: reduce) { .float-md { animation: none; } }
+/* ---------- Arabic / right-to-left ---------- */
+:where(:root) { --font-ar-display: ui-sans-serif; --font-ar-body: ui-sans-serif; }
+/* Letter-spacing breaks Arabic letters apart, so it is switched off everywhere in RTL. */
+[dir="rtl"] * { letter-spacing: normal !important; }
+/* Arabic needs more line height than the tight Latin headings use. */
+[dir="rtl"] .font-display { line-height: 1.2; }
+/* Directional arrows point the other way. */
+[dir="rtl"] .arr { display: inline-block; transform: scaleX(-1); }
+[dir="rtl"] .underline-sweep, [dir="rtl"] .steps-line { transform-origin: right; }
+/* Arabic letters read smaller at the same pixel size, so the smallest text sizes are nudged up. */
+[dir="rtl"] .text-xs { font-size: .8125rem; line-height: 1.3rem; }
+[dir="rtl"] .text-sm { font-size: .95rem; line-height: 1.55rem; }
+[dir="rtl"] .progress { left: auto; right: 0; transform-origin: 100% 50%; }

@@ -1,5 +1,6 @@
 "use client";
 import { Product, SITE, lineOf } from "@/lib/products";
+import { useLang } from "./lang-provider";
 
 async function loadImg(src = "/logo.png", type = "image/png") {
   const img = new Image(); img.src = src; await img.decode();
@@ -61,11 +62,13 @@ async function makePdf(p: Product) {
   doc.save(`${p.model}-datasheet.pdf`);
 }
 
+// The datasheet PDF is always generated in English (the PDF fonts have no Arabic); only the button label follows the page language.
 export default function DownloadButton({ p }: { p: Product }) {
+  const { t } = useLang();
   return (
     <button onClick={() => makePdf(p)} className="inline-flex w-full items-center justify-center gap-2 sm:w-auto rounded-full border border-ink/25 px-6 py-3 text-sm font-semibold text-ink transition hover:border-gold hover:bg-ink/10">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 3v12m0 0l-4-4m4 4l4-4M4 21h16" /></svg>
-      Download datasheet
+      {t.product.download} {t.product.downloadNote}
     </button>
   );
 }

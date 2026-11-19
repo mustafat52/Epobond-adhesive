@@ -1,7 +1,7 @@
 import { createClient, SupabaseClient } from "@supabase/supabase-js";
 import { unstable_cache } from "next/cache";
 import seed from "@/data/seed-products.json";
-import { LINES, Product, slugify } from "./products";
+import { Product, lineOf, slugify } from "./products";
 import { ProductInput } from "./validate";
 
 // All product data lives in Supabase. If Supabase is not connected yet, the site shows the starting catalogue (read-only).
@@ -12,9 +12,9 @@ function sb() {
   if (!client) client = createClient(process.env.SUPABASE_URL!, process.env.SUPABASE_SERVICE_ROLE_KEY!, { auth: { persistSession: false }, global: { fetch: (u, o) => fetch(u, { ...o, cache: "no-store" }) } });
   return client;
 }
-const segOf = (line: string) => LINES.find((l) => l.id === line)?.segment ?? "industrial";
-const fromRow = (r: Row): Product => ({ slug: r.slug, model: r.model, name: r.name, line: r.line, summary: r.summary ?? "", storeUrl: r.store_url || "#", draft: r.draft, images: r.images ?? [], specs: r.specs ?? [], notes: r.notes ?? [], sections: r.sections ?? [], segment: segOf(r.line) });
-const seedList = (): Product[] => (seed as any[]).map((p) => ({ ...p, segment: segOf(p.line) }));
+const segOf = (line: string) => lineOf(line).segment;
+const fromRow = (r: Row): Product => ({ slug: r.slug, model: r.model, name: r.name, line: lineOf(r.line).id, summary: r.summary ?? "", storeUrl: r.store_url || "#", draft: r.draft, images: r.images ?? [], specs: r.specs ?? [], notes: r.notes ?? [], sections: r.sections ?? [], segment: segOf(r.line) });
+const seedList = (): Product[] => (seed as any[]).map((p) => ({ ...p, line: lineOf(p.line).id, segment: segOf(p.line) }));
 const toRow = (i: ProductInput) => ({ model: i.model, name: i.name, line: i.line, summary: i.summary, store_url: i.storeUrl || "#", draft: i.draft, images: i.images, specs: i.specs, notes: i.notes, sections: i.sections });
 const need = () => { if (!dbReady()) throw new Error("Supabase is not connected yet. Add SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY to .env.local and restart the site."); };
 
